@@ -3,6 +3,10 @@
 }
 
 .blue {
+    color: black;
+}
+
+p.blue {
     color: blue;
 }
 
