@@ -21,10 +21,8 @@ p {
     color: black;
 }
 
-p.red {
-    color: purple;
+#scape {
+    color: green;
 }
 
-#title.heading.red {
-    color: blue;
-}
+
