@@ -1,26 +1,30 @@
-.red {
-    color: red;
-}
 
-.blue {
-    color: black;
-}
 
-p.blue {
-    color: blue;
-}
-
-p {
-    color: black;
-}
-
-p.red {
-    color: green;
-}
 
 section {
     height: 40vh;
     width: 100%;
     max-width: 400px;
     border: 1px solid black;
+}
+
+p {
+    color: blue;
+
+}
+
+.red {
+    color: red;
+}
+
+#title {
+    color: black;
+}
+
+p.red {
+    color: purple;
+}
+
+#title.heading.red {
+    color: blue;
 }
