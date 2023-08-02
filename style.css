@@ -10,9 +10,8 @@ div {
 
 .red {
     background-color: red;
-    position: fixed;
-    bottom: 0;
-    right: 0;
+    position: sticky;
+    top: 100px;
     width: 100%;
     box-sizing: border-box;    
 
