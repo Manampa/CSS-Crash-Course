@@ -1,3 +1,7 @@
+body {
+    height: 200vh;
+}
+
 div {
 
     height: 200px;
@@ -6,18 +10,11 @@ div {
 
 .red {
     background-color: red;
-    position: relative;
+    position: fixed;
+    bottom: 0;
+    right: 0;
     width: 100%;
     box-sizing: border-box;    
 
 }
 
-.child {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 100%;
-    left: 100%;
-
-}
